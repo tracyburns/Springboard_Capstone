@@ -1,2 +1,2 @@
 # Springboard_Capstone
-Capstone files and scripts
+Airbnb New User Bookings kaggle competition : https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
